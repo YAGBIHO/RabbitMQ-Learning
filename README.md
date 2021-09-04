@@ -1,4 +1,4 @@
-# RabbitMQ-Learnning
+# RabbitMQ-Learning
 RabbitMQ学习教程
 
 # 代码中各组件版本
